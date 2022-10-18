@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Mahnun Saratunti
-- 🌱 I’m currently studying Software Engineering at KMITL (King Mongkut's Institute of Technology Ladkrabang)
-
 # 👋 Hello, I'm Mahnun Saratunti
 
 🧑‍💻 I'm currently studying for a Bachelor's degree in Software Engineering at KMITL (King Mongkut's Institute of Technology Ladkrabang)
