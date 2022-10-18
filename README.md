@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mahnun Saratunti
 
-## Programming Skills & Tools 🤓🤓
+## Languages, Technologies & Tools 🤓🤓
 
 <div>
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196374604-6205ccd2-b5d6-40bb-8066-6fc533a11e43.png" /> &nbsp;
