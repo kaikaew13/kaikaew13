@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Mahnun Saratunti
 
-🧑‍💻 I'm currently studying for a Bachelor's degree in Software Engineering at KMITL (King Mongkut's Institute of Technology Ladkrabang)
-
 ## Programming Skills & Tools 🤓🤓
 
 <div>
@@ -30,6 +28,8 @@
 </div>
 
 ## About Me 🗿
+
+🧑‍💻 I'm currently studying for a Bachelor's degree in Software Engineering at KMITL (King Mongkut's Institute of Technology Ladkrabang)
 
 **My Portfolio Page: [https://kaikaew13.github.io/portfolio](https://kaikaew13.github.io/portfolio)**
 
