@@ -2,6 +2,7 @@
 
 ## Languages, Technologies & Tools 🤓🤓
 
+### Programming Languages
 <div>
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196374604-6205ccd2-b5d6-40bb-8066-6fc533a11e43.png" /> &nbsp;
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196375217-c0ad0061-648b-427c-a746-300855fe53f6.png" /> &nbsp;
@@ -11,6 +12,11 @@
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196375845-635ee3b9-2fed-48f2-b7d1-723b4a1e9b6d.png" /> &nbsp;
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196379462-610f0781-9f7c-4d91-9b67-ae10ab87b7cc.png" /> &nbsp;
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196379594-ab080bef-2386-474d-a9f2-53931238bfa3.png" /> &nbsp;
+</div>
+
+### Technologies
+
+<div>
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196376318-7ce5e1be-f6da-40b1-87c8-9c1348038abb.png" /> &nbsp;
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196376480-c37329c9-7485-4ed9-b117-32f6a83f8724.png" /> &nbsp;
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196376736-86069100-4c67-4908-b11b-a37f43737b91.png" /> &nbsp;
@@ -24,7 +30,14 @@
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196380446-6ceebd44-f3c3-47a0-96e2-6151d71a5577.png" /> &nbsp;
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196381302-b44b7306-a692-4f69-b8d6-c61ae54af649.png" /> &nbsp;
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196381506-f5f8a8d3-7550-4cf9-8355-65925555a575.png" /> &nbsp;
+</div>
+
+### OS 
+
+<div>
   <img height="50em" src="https://user-images.githubusercontent.com/77256757/196380460-5d074cc5-9f6c-4b77-ac03-d6c9c85ca9fe.png" /> &nbsp;
+  <img height="50em" src="https://user-images.githubusercontent.com/77256757/198195696-22af5771-a6cd-4bab-852c-bdf353cbdc73.png" /> &nbsp;
+  <img height="50em" src="https://user-images.githubusercontent.com/77256757/198195699-67870e80-057a-4146-b84e-7cf60e830a5c.png" /> &nbsp;
 </div>
 
 ## About Me 🗿
