@@ -42,7 +42,7 @@
 
 ## About Me 🗿
 
-🧑‍💻 I'm currently studying for a Bachelor's degree in Software Engineering at KMITL (King Mongkut's Institute of Technology Ladkrabang)
+🧑‍💻 I'm currently a 3rd year student pursuing a Bachelor's degree in Software Engineering at University of Glasgow
 
 **My Portfolio Page: [https://kaikaew13.github.io/portfolio](https://kaikaew13.github.io/portfolio)**
 
