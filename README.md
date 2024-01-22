@@ -48,7 +48,7 @@
 
 <div>
   <span>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kaikaew13&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=great-gatsby" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kaikaew13&show_icons=true&theme=great-gatsby" />
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikaew13&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=great-gatsby"/>
   </span>
 </div>
